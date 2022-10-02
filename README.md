@@ -10,8 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 LDR_to_PWM_LED2
-This piece of code mainly uses LDR to control the brightness of the 6 leds. Use Rasyberry
-Pi Pico to control.
+This piece of code is used to control the brightness of the 8 leds via LDR. Use Raspberry Pi Pico to control.
 
 SmartGreenHouse
-This code is mainly to solve the greenhouse effect
+This code is to control the rest of the protoype, such as remote servo, LCD screen, fans and heater LED
