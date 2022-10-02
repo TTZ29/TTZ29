@@ -8,3 +8,10 @@
 TTZ29/TTZ29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+LDR_to_PWM_LED2
+This piece of code mainly uses LDR to control the brightness of the 6 leds. Use Rasyberry
+Pi Pico to control.
+
+SmartGreenHouse
+This code is mainly to solve the greenhouse effect
